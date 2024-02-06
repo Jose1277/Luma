@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Luma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d55f52ec87456c25ec9e5c0b7ecd28ed05413d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Luma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Luma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
